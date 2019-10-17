@@ -64,7 +64,7 @@ development package for it.
 Here's the package name for popular distributions:
 
 Debian: `libXrandr-dev`    
-Fedora: `libxrandr-devel`   
+Fedora: `libXrandr-devel`   
 Gentoo: `libXrandr`    
 openSUSE: `libXrandr-devel`
 
